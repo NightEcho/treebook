@@ -4,3 +4,9 @@ justen:
   last_name: "Allan"
   email: "justen@justen.com"
   profile_name: "justenallan"
+
+jim: 
+  first_name: "Jim"
+  last_name: "Pimp"
+  email: "jim@justen.com"
+  profile_name: "jimpimp"
